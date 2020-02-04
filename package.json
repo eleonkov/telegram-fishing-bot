@@ -1,0 +1,27 @@
+{
+  "name": "telegram-fishing-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "BOT_TOKEN=1009288722:AAH4Be2all88a_ow1PgHsqK1LO0oDWmLUiM node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eleonkov/telegram-fishing-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eleonkov/telegram-fishing-bot/issues"
+  },
+  "homepage": "https://github.com/eleonkov/telegram-fishing-bot#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "dependencies": {
+    "get-video-duration": "^1.0.3",
+    "moment": "^2.24.0",
+    "telegraf": "^3.36.0"
+  }
+}
