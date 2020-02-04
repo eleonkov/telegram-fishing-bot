@@ -2,12 +2,7 @@
 const fetch = require('node-fetch');
 const Telegraf = require('telegraf');
 
-const { isVideo,
-    hasMinViews,
-    isGoodVideoFormat,
-    isFreshVideo,
-    getVideoDuration
-} = require('./util/video');
+const { isVideo, hasMinViews, isGoodVideoFormat, isFreshVideo } = require('./util/video');
 
 let hashtagList = [];
 
