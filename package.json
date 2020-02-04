@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "BOT_TOKEN=1009288722:AAH4Be2all88a_ow1PgHsqK1LO0oDWmLUiM node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
