@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/eleonkov/telegram-fishing-bot#readme",
   "devDependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "dependencies": {
     "get-video-duration": "^1.0.3",
